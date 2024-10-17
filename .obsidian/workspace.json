@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Arrays & Hashing/217. Contains Duplicate.md",
+                "file": "Arrays & Hashing/242. Valid Anagram.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Arrays & Hashing/217. Contains Duplicate.md",
+                "file": "Arrays & Hashing/242. Valid Anagram.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Arrays & Hashing/217. Contains Duplicate.md",
+                "file": "Arrays & Hashing/242. Valid Anagram.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Arrays & Hashing/217. Contains Duplicate.md"
+                "file": "Arrays & Hashing/242. Valid Anagram.md"
               }
             }
           }
@@ -138,6 +138,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "obsidian-git:Open Git source control": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -146,9 +147,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "5bf41f66a321a816",
+  "active": "77e51f1e1318e261",
   "lastOpenFiles": [
     "Arrays & Hashing/217. Contains Duplicate.md",
+    "Arrays & Hashing/242. Valid Anagram.md",
     "Arrays & Hashing"
   ]
 }
