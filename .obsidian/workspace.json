@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Arrays & Hashing/242. Valid Anagram.md",
+                "file": "Arrays & Hashing/1. Two Sum.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "242. Valid Anagram"
+              "title": "1. Two Sum"
             }
           }
         ]
@@ -166,6 +166,7 @@
   "active": "77e51f1e1318e261",
   "lastOpenFiles": [
     "Arrays & Hashing/217. Contains Duplicate.md",
+    "Arrays & Hashing/1. Two Sum.md",
     "Arrays & Hashing/242. Valid Anagram.md",
     "README.md",
     "Arrays & Hashing"
