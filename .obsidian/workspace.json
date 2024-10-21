@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Two Pointers/125. Valid Palindrome.md",
+                "file": "Two Pointers/20. Valid Parentheses.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "125. Valid Palindrome"
+              "title": "20. Valid Parentheses"
             }
           }
         ]
@@ -165,10 +165,11 @@
   },
   "active": "77e51f1e1318e261",
   "lastOpenFiles": [
+    "Two Pointers/125. Valid Palindrome.md",
+    "Two Pointers/20. Valid Parentheses.md",
     "Arrays & Hashing/1. Two Sum.md",
     "Arrays & Hashing/217. Contains Duplicate.md",
     "Arrays & Hashing/242. Valid Anagram.md",
-    "Two Pointers/125. Valid Palindrome.md",
     "Two Pointers",
     "README.md",
     "Arrays & Hashing"
