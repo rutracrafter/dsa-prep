@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Two Pointers/20. Valid Parentheses.md",
+                "file": "Stack/20. Valid Parentheses.md",
                 "mode": "source",
                 "source": false
               },
@@ -163,10 +163,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "77e51f1e1318e261",
+  "active": "5bf41f66a321a816",
   "lastOpenFiles": [
+    "Stack",
     "Two Pointers/125. Valid Palindrome.md",
-    "Two Pointers/20. Valid Parentheses.md",
+    "Stack/20. Valid Parentheses.md",
     "Arrays & Hashing/1. Two Sum.md",
     "Arrays & Hashing/217. Contains Duplicate.md",
     "Arrays & Hashing/242. Valid Anagram.md",
