@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Stack/20. Valid Parentheses.md",
+                "file": "Binary Search/704. Binary Search.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "20. Valid Parentheses"
+              "title": "704. Binary Search"
             }
           }
         ]
@@ -163,11 +163,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "5bf41f66a321a816",
+  "active": "77e51f1e1318e261",
   "lastOpenFiles": [
+    "Stack/20. Valid Parentheses.md",
+    "Binary Search/704. Binary Search.md",
+    "Binary Search",
     "Stack",
     "Two Pointers/125. Valid Palindrome.md",
-    "Stack/20. Valid Parentheses.md",
     "Arrays & Hashing/1. Two Sum.md",
     "Arrays & Hashing/217. Contains Duplicate.md",
     "Arrays & Hashing/242. Valid Anagram.md",
