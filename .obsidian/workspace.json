@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Linked List/141. Linked List Cycle.md",
+                "file": "Trees/226. Invert Binary Tree.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "141. Linked List Cycle"
+              "title": "226. Invert Binary Tree"
             }
           }
         ]
@@ -165,8 +165,10 @@
   },
   "active": "77e51f1e1318e261",
   "lastOpenFiles": [
-    "Linked List/206. Reverse Linked List.md",
     "Linked List/141. Linked List Cycle.md",
+    "Trees/226. Invert Binary Tree.md",
+    "Trees",
+    "Linked List/206. Reverse Linked List.md",
     "Linked List/21. Merge Two Sorted Lists.md",
     "Sliding Window/121. Best Time to Buy and Sell Stock.md",
     "Linked List",
