@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "3f0ffd1180259d30",
+        "id": "c1a2f1bea4ab7574",
         "type": "tabs",
         "children": [
           {
-            "id": "77e51f1e1318e261",
+            "id": "558f936a487a2684",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Heap & Priority Queue/703. Kth Largest Element.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "703. Kth Largest Element"
+              "title": "New tab"
             }
           }
         ]
@@ -163,7 +159,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "77e51f1e1318e261",
+  "active": "558f936a487a2684",
   "lastOpenFiles": [
     "Heap & Priority Queue/1046. Last Stone Weight.md",
     "Heap & Priority Queue/703. Kth Largest Element.md",
