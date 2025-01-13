@@ -163,10 +163,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "9a38b9af0b8d5699",
+  "active": "5bf41f66a321a816",
   "lastOpenFiles": [
-    "1-D Dynamic Programming/746. Min Cost Climbing Stairs.md",
+    "Stack/20. Valid Parentheses.md",
     "Intervals/252. Meeting Rooms.md",
+    "1-D Dynamic Programming/746. Min Cost Climbing Stairs.md",
     "Intervals",
     "1-D Dynamic Programming/70. Climbing Stairs.md",
     "Heap & Priority Queue/1046. Last Stone Weight.md",
@@ -188,7 +189,6 @@
     "Sliding Window/121. Best Time to Buy and Sell Stock.md",
     "Linked List",
     "Sliding Window",
-    "Stack/20. Valid Parentheses.md",
     "Binary Search",
     "Stack",
     "Two Pointers/125. Valid Palindrome.md",
