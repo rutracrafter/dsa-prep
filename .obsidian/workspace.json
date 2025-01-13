@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1-D Dynamic Programming/746. Min Cost Climbing Stairs.md",
+                "file": "Intervals/252. Meeting Rooms.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "746. Min Cost Climbing Stairs"
+              "title": "252. Meeting Rooms"
             }
           }
         ]
@@ -165,8 +165,10 @@
   },
   "active": "9a38b9af0b8d5699",
   "lastOpenFiles": [
-    "1-D Dynamic Programming/70. Climbing Stairs.md",
     "1-D Dynamic Programming/746. Min Cost Climbing Stairs.md",
+    "Intervals/252. Meeting Rooms.md",
+    "Intervals",
+    "1-D Dynamic Programming/70. Climbing Stairs.md",
     "Heap & Priority Queue/1046. Last Stone Weight.md",
     "Heap & Priority Queue/703. Kth Largest Element.md",
     "1-D Dynamic Programming",
