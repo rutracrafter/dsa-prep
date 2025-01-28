@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Bit Manipulation/190. Reverse Bits.md",
+                "file": "Bit Manipulation/268. Missing Number.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Bit Manipulation/190. Reverse Bits.md",
+                "file": "Bit Manipulation/268. Missing Number.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Bit Manipulation/190. Reverse Bits.md",
+                "file": "Bit Manipulation/268. Missing Number.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Bit Manipulation/190. Reverse Bits.md"
+                "file": "Bit Manipulation/268. Missing Number.md"
               }
             }
           }
@@ -149,8 +149,9 @@
   },
   "active": "9a38b9af0b8d5699",
   "lastOpenFiles": [
-    "Bit Manipulation/191. Number of 1 Bits.md",
     "Bit Manipulation/190. Reverse Bits.md",
+    "Bit Manipulation/268. Missing Number.md",
+    "Bit Manipulation/191. Number of 1 Bits.md",
     "Bit Manipulation/338. Counting Bits.md",
     "Bit Manipulation/136. Single Number.md",
     "Linked List/21. Merge Two Sorted Lists.md",
@@ -183,7 +184,6 @@
     "Two Pointers/125. Valid Palindrome.md",
     "Arrays & Hashing/1. Two Sum.md",
     "Arrays & Hashing/217. Contains Duplicate.md",
-    "Arrays & Hashing/242. Valid Anagram.md",
     "Two Pointers"
   ]
 }
