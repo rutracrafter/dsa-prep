@@ -16,9 +16,7 @@
                 "file": "Bit Manipulation/338. Counting Bits.md",
                 "mode": "source",
                 "source": false
-              },
-              "icon": "lucide-file",
-              "title": "338. Counting Bits"
+              }
             }
           }
         ]
@@ -41,9 +39,7 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical"
-              },
-              "icon": "lucide-folder-closed",
-              "title": "Files"
+              }
             }
           },
           {
@@ -58,9 +54,7 @@
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
-              },
-              "icon": "lucide-search",
-              "title": "Search"
+              }
             }
           },
           {
@@ -68,9 +62,7 @@
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {},
-              "icon": "lucide-bookmark",
-              "title": "Bookmarks"
+              "state": {}
             }
           }
         ]
@@ -93,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Arrays & Hashing/242. Valid Anagram.md",
+                "file": "Bit Manipulation/338. Counting Bits.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -101,9 +93,7 @@
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
-              },
-              "icon": "links-coming-in",
-              "title": "Backlinks for 242. Valid Anagram"
+              }
             }
           },
           {
@@ -112,12 +102,10 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Arrays & Hashing/242. Valid Anagram.md",
+                "file": "Bit Manipulation/338. Counting Bits.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
-              },
-              "icon": "links-going-out",
-              "title": "Outgoing links from 242. Valid Anagram"
+              }
             }
           },
           {
@@ -128,9 +116,7 @@
               "state": {
                 "sortOrder": "frequency",
                 "useHierarchy": true
-              },
-              "icon": "lucide-tags",
-              "title": "Tags"
+              }
             }
           },
           {
@@ -139,10 +125,8 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Arrays & Hashing/242. Valid Anagram.md"
-              },
-              "icon": "lucide-list",
-              "title": "Outline of 242. Valid Anagram"
+                "file": "Bit Manipulation/338. Counting Bits.md"
+              }
             }
           }
         ]
@@ -154,7 +138,6 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "obsidian-git:Open Git source control": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
