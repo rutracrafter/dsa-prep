@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Arrays & Hashing/49. Group Anagrams.md",
+                "file": "Arrays & Hashing/347. Top K Frequent Elements.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "49. Group Anagrams"
+              "title": "347. Top K Frequent Elements"
             }
           }
         ]
@@ -165,8 +165,9 @@
   },
   "active": "9a38b9af0b8d5699",
   "lastOpenFiles": [
-    "Math & Geometry/202. Happy Number.md",
     "Arrays & Hashing/49. Group Anagrams.md",
+    "Arrays & Hashing/347. Top K Frequent Elements.md",
+    "Math & Geometry/202. Happy Number.md",
     "Math & Geometry/66. Plus One.md",
     "Heap & Priority Queue/1046. Last Stone Weight.md",
     "Bit Manipulation/338. Counting Bits.md",
@@ -196,7 +197,6 @@
     "Binary Search/704. Binary Search.md",
     "Linked List/141. Linked List Cycle.md",
     "Trees",
-    "Linked List/206. Reverse Linked List.md",
     "Linked List",
     "Sliding Window",
     "Binary Search",
