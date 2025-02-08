@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Math & Geometry/66. Plus One.md",
+                "file": "Math & Geometry/202. Happy Number.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "66. Plus One"
+              "title": "202. Happy Number"
             }
           }
         ]
@@ -165,8 +165,8 @@
   },
   "active": "9a38b9af0b8d5699",
   "lastOpenFiles": [
-    "Math & Geometry/202. Happy Number.md",
     "Math & Geometry/66. Plus One.md",
+    "Math & Geometry/202. Happy Number.md",
     "Heap & Priority Queue/1046. Last Stone Weight.md",
     "Bit Manipulation/338. Counting Bits.md",
     "Math & Geometry",
