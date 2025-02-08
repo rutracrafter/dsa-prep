@@ -165,8 +165,9 @@
   },
   "active": "9a38b9af0b8d5699",
   "lastOpenFiles": [
-    "Bit Manipulation/338. Counting Bits.md",
+    "Math & Geometry/202. Happy Number.md",
     "Math & Geometry/66. Plus One.md",
+    "Bit Manipulation/338. Counting Bits.md",
     "Math & Geometry",
     "Bit Manipulation/268. Missing Number.md",
     "Bit Manipulation/190. Reverse Bits.md",
@@ -199,7 +200,6 @@
     "Sliding Window",
     "Binary Search",
     "Stack",
-    "Two Pointers/125. Valid Palindrome.md",
-    "Arrays & Hashing/1. Two Sum.md"
+    "Two Pointers/125. Valid Palindrome.md"
   ]
 }
