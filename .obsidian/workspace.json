@@ -20,8 +20,21 @@
               "icon": "lucide-file",
               "title": "271. Encode and Decode Strings"
             }
+          },
+          {
+            "id": "f92746d83077b8fb",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.8.4"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.8.4"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -40,7 +53,8 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
+                "sortOrder": "alphabetical",
+                "autoReveal": false
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -163,7 +177,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "9a38b9af0b8d5699",
+  "active": "f92746d83077b8fb",
   "lastOpenFiles": [
     "Arrays & Hashing/347. Top K Frequent Elements.md",
     "Arrays & Hashing/271. Encode and Decode Strings.md",
