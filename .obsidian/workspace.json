@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Arrays & Hashing/36. Valid Sudoku.md",
+                "file": "Arrays & Hashing/128. Longest Consecutive Sequence.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "36. Valid Sudoku"
+              "title": "128. Longest Consecutive Sequence"
             }
           }
         ]
@@ -164,10 +164,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "5bf41f66a321a816",
+  "active": "9a38b9af0b8d5699",
   "lastOpenFiles": [
-    "Arrays & Hashing/1. Two Sum.md",
     "Arrays & Hashing/36. Valid Sudoku.md",
+    "Arrays & Hashing/128. Longest Consecutive Sequence.md",
+    "Arrays & Hashing/1. Two Sum.md",
     "Arrays & Hashing/49. Group Anagrams.md",
     "Arrays & Hashing/238. Product of Array Except Self.md",
     "Arrays & Hashing/271. Encode and Decode Strings.md",
@@ -196,7 +197,6 @@
     "Heap & Priority Queue",
     "Trees/572. Subtree of Another Tree.md",
     "Trees/104. Maximum Depth of Binary Tree.md",
-    "Trees/110. Balanced Binary Tree.md",
     "Trees",
     "Linked List",
     "Sliding Window",
