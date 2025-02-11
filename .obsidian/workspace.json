@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Two Pointers/3Sum.md",
+                "file": "Two Pointers/167. Two Sum II - Input Array is Sorted.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "3Sum"
+              "title": "167. Two Sum II - Input Array is Sorted"
             }
           }
         ]
@@ -166,8 +166,9 @@
   },
   "active": "9a38b9af0b8d5699",
   "lastOpenFiles": [
+    "Two Pointers/125. Valid Palindrome.md",
     "Two Pointers/167. Two Sum II - Input Array is Sorted.md",
-    "Two Pointers/3Sum.md",
+    "Two Pointers/15. 3Sum.md",
     "Arrays & Hashing/128. Longest Consecutive Sequence.md",
     "Arrays & Hashing/36. Valid Sudoku.md",
     "Arrays & Hashing/1. Two Sum.md",
@@ -195,7 +196,6 @@
     "Heap & Priority Queue/703. Kth Largest Element.md",
     "1-D Dynamic Programming",
     "Untitled.md",
-    "Trees/100. Same Tree.md",
     "Heap & Priority Queue",
     "Trees",
     "Linked List",
