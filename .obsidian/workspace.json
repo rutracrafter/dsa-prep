@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "e704e151e96714d5",
+        "id": "e89fb159f9e43e7d",
         "type": "tabs",
         "children": [
           {
-            "id": "fa033ed4a154488a",
+            "id": "4328401fcd1df348",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Two Pointers/11. Container.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "11. Container"
             }
           }
         ]
@@ -160,8 +164,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "fa033ed4a154488a",
+  "active": "4328401fcd1df348",
   "lastOpenFiles": [
+    "Two Pointers/11. Container.md",
     "Two Pointers/167. Two Sum II - Input Array is Sorted.md",
     "Two Pointers/15. 3Sum.md",
     "Linked List/141. Linked List Cycle.md",
@@ -190,7 +195,6 @@
     "1-D Dynamic Programming/746. Min Cost Climbing Stairs.md",
     "Intervals",
     "1-D Dynamic Programming/70. Climbing Stairs.md",
-    "Heap & Priority Queue/703. Kth Largest Element.md",
     "1-D Dynamic Programming",
     "Heap & Priority Queue",
     "Trees",
