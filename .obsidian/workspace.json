@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "27a025dbe88561da",
+        "id": "e704e151e96714d5",
         "type": "tabs",
         "children": [
           {
-            "id": "9a38b9af0b8d5699",
+            "id": "fa033ed4a154488a",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Two Pointers/15. 3Sum.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "15. 3Sum"
+              "title": "New tab"
             }
           }
         ]
@@ -164,10 +160,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "9a38b9af0b8d5699",
+  "active": "fa033ed4a154488a",
   "lastOpenFiles": [
     "Two Pointers/167. Two Sum II - Input Array is Sorted.md",
     "Two Pointers/15. 3Sum.md",
+    "Linked List/141. Linked List Cycle.md",
     "Two Pointers/125. Valid Palindrome.md",
     "Arrays & Hashing/128. Longest Consecutive Sequence.md",
     "Arrays & Hashing/36. Valid Sudoku.md",
@@ -195,7 +192,6 @@
     "1-D Dynamic Programming/70. Climbing Stairs.md",
     "Heap & Priority Queue/703. Kth Largest Element.md",
     "1-D Dynamic Programming",
-    "Untitled.md",
     "Heap & Priority Queue",
     "Trees",
     "Linked List",
