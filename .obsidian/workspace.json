@@ -20,8 +20,21 @@
               "icon": "lucide-file",
               "title": "739. Daily Temperatures"
             }
+          },
+          {
+            "id": "ecab2f1248b3fb61",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.8.9"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.8.9"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -164,7 +177,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "4328401fcd1df348",
+  "active": "ecab2f1248b3fb61",
   "lastOpenFiles": [
     "Stack/155. Min Stack.md",
     "Stack/739. Daily Temperatures.md",
