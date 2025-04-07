@@ -25,12 +25,14 @@
             "id": "ecab2f1248b3fb61",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.8.9"
+                "file": "Stack/739. Daily Temperatures.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.8.9"
+              "icon": "lucide-file",
+              "title": "739. Daily Temperatures"
             }
           }
         ],
