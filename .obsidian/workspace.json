@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Binary Search/153. Find Minimum is Sorted Rotated Array.md",
+                "file": "Binary Search/153. Find Minimum in Sorted Rotated Array.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "153. Find Minimum is Sorted Rotated Array"
+              "title": "153. Find Minimum in Sorted Rotated Array"
             }
           }
         ],
@@ -185,7 +185,7 @@
     "Binary Search/875. Koko Eating Bananas.md",
     "Binary Search/704. Binary Search.md",
     "Binary Search/74. Search a 2D Matrix.md",
-    "Binary Search/153. Find Minimum is Sorted Rotated Array.md",
+    "Binary Search/153. Find Minimum in Sorted Rotated Array.md",
     "Stack/739. Daily Temperatures.md",
     "Stack/155. Min Stack.md",
     "Stack/22. Generate Parentheses.md",
