@@ -39,12 +39,14 @@
             "id": "96f62089a02463fd",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.8.10"
+                "file": "Linked List/143. Reorder List.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.8.10"
+              "icon": "lucide-file",
+              "title": "143. Reorder List"
             }
           }
         ],
@@ -193,6 +195,7 @@
   },
   "active": "96f62089a02463fd",
   "lastOpenFiles": [
+    "Linked List/143. Reorder List.md",
     "Binary Search/153. Find Minimum in Sorted Rotated Array.md",
     "Binary Search/33. Search in Rotated Sorted Array.md",
     "Stack/853. Car Fleet.md",
@@ -218,7 +221,6 @@
     "Arrays & Hashing/49. Group Anagrams.md",
     "Arrays & Hashing/238. Product of Array Except Self.md",
     "Arrays & Hashing/271. Encode and Decode Strings.md",
-    "Arrays & Hashing/347. Top K Frequent Elements.md",
     "Math & Geometry",
     "Bit Manipulation",
     "Intervals",
